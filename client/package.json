@@ -1,0 +1,12 @@
+{
+  "name": "chat-frontend",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Bygg inte - detta är en Vanilla JS applikation'"
+  },
+  "dependencies": {
+    "axios": "^1.15.0"
+  }
+}
